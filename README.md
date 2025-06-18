@@ -6,7 +6,6 @@
 | **TypeScript**  |  [![TypeScript](https://img.shields.io/badge/TypeScript-~5.7.2-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)                         |
 | **Material UI** |     [![Material-UI](https://img.shields.io/badge/Material--UI-v7.1.0-blue.svg?logo=mui&logoColor=white)](https://mui.com/)                                       |
 |     **CSS**     |  [![CSS](https://img.shields.io/badge/CSS-v3-639?logo=css&logoColor=fff)](https://www.w3.org/Style/CSS/Overview.en.html)                                         | 
-|    **SCSS**     |           ![SCSS](https://img.shields.io/badge/SCSS--CD6799?logo=sass&logoColor=white)                      |
 |    **Jest**     |             [![Jest](https://img.shields.io/badge/Jest-^29.7.0-C21325?logo=jest&logoColor=white)](https://jestjs.io/)                                            |
 |    **Vite**     |             [![Vite](https://img.shields.io/badge/Vite-^6.3.1-646CFF?logo=vite&logoColor=white)](https://vite.dev/)                                              |
 |   **ESLint**    |          [![ESLint](https://img.shields.io/badge/ESLint-^9.26.0-4B32C3?logo=eslint&logoColor=white)](https://eslint.org/)                                        |
